@@ -1,0 +1,38 @@
+.products {
+  margin: 20px;
+  display: flex;
+}
+
+.products--Item--ImageDiv {
+  max-height: 200px;
+  max-width: 200px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.products--Item--ImageDiv--Image {
+  width: 100%;
+}
+
+.products--ItemDiv {
+  display: flex;
+}
+
+.font--style {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.span {
+  text-align: center;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.products--Currency--Span {
+  margin-right: 20px;
+}
+
+.products--Currency {
+  margin-left: 40px;
+}
